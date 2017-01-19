@@ -6,11 +6,13 @@
 		
 		$.extend(self, {
 			nCageImgs : [
-			'http://static.boredpanda.com/blog/wp-content/uploads/2016/04/beautiful-fluffy-cat-british-longhair-2.jpg',
-			'https://media.mnn.com/assets/images/2016/05/cat-mutation-bobtail.jpg.990x0_q80_crop-smart.jpg',
-			'https://www.royalcanin.com/~/media/Royal-Canin/Subpage-Hero-Images/150327_Hero_kit.ashx',
-			'https://www.royalcanin.com/~/media/Royal-Canin/Product-Categories/cat-breed-landing-hero.ashx',
-			'https://cdn.pixabay.com/photo/2014/03/29/09/17/cat-300572_960_720.jpg'
+			'http://static1.fjcdn.com/comments/Papa+franku+_f6e938bffd10c339496b84e28d1923fa.png',
+			'http://pa1.narvii.com/5989/7607d28e71260e57058a7fd235929e1d7ab5e04c_hq.gif',
+			'http://static.fjcdn.com/pictures/Papa_d3c5bf_5541134.jpg',
+			'http://i.imgur.com/Dhqbtv0.png',
+			'https://pbs.twimg.com/profile_images/574671817186656258/a8eUf1yr.jpeg',
+			'http://images.akamai.steamusercontent.com/ugc/389917471420807616/07117C0DF33E094197134993D7181CE28FA0A9D7/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637:358&composite-to%3D*%2C*%7C637%3A358&background-color=black',
+			'http://images.8tracks.com/cover/i/009/131/528/Bitches_love_human_ramen__ec897881ec2e8e82220b86ee78e7db3b-4910.jpg?rect=0,20,885,885&q=98&fm=jpg&fit=max&w=640&h=640'
 			],
 			handleImages : function (lstImgs, time)
 			{
