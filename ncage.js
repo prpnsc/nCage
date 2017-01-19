@@ -6,7 +6,9 @@
 		
 		$.extend(self, {
 			nCageImgs : [
-			'https://media.giphy.com/media/Tz6D8jKHaQInu/giphy.gif'
+			'https://media.giphy.com/media/Tz6D8jKHaQInu/giphy.gif',
+			'http://i.imgur.com/X12Hh4X.gif',
+			'http://i.imgur.com/DQV5poL.gif'
 			],
 			handleImages : function (lstImgs, time)
 			{
